@@ -1,0 +1,15 @@
+{
+  "files": [],
+  "references": [
+    {
+      "path": "./tsconfig.node.json"
+    },
+    {
+      "path": "./tsconfig.app.json"
+    }
+    // {
+    //   // ... 全局引入的时候， 可以更好的获取组件类型
+    //   // "types": ["element-plus/global"]
+    // }
+  ]
+}
